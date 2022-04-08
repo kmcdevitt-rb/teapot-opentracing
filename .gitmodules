@@ -1,0 +1,3 @@
+[submodule "dd-opentracing-cpp"]
+	path = dd-opentracing-cpp
+	url = https://github.com/DataDog/dd-opentracing-cpp
